@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.avi
+*.AVI
+*.mp4
+*.mov
+*.mkv
+.venv/
+venv/
